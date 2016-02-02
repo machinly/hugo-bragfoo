@@ -1,0 +1,15 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/spf13/hugoThemes#themetoml for an example
+
+name = "Bragfoo"
+license = "MIT"
+licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE.md"
+description = ""
+homepage = "https://github.com/machinly/hugo-bragfoo.gi://github.com/machinly/hugo-bragfoo.git/"
+tags = ["bragfoo", "Awesome fonts","Bootstrap 3"]
+features = ["blog", "postcast"]
+min_version = 0.14
+
+[author]
+  name = "machinly"
+  homepage = "http://machinly.com"
